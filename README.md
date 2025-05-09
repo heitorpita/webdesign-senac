@@ -1,10 +1,7 @@
 # README.md - Curso UC2: Desenvolver Aplicações para Websites
 
 ## Descrição
-Curso do SENAC AR/RN para capacitar na criação de websites otimizados, com foco em comunicação visual, acessibilidade, usabilidade e padrões W3C.
-
-## Carga Horária
-72 horas
+Curso do SENAC/RN para capacitar na criação de websites otimizados, com foco em comunicação visual, acessibilidade, usabilidade e padrões W3C.
 
 ## Indicadores
 - Criar imagens, layouts e animações otimizadas.
